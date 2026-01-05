@@ -1,0 +1,45 @@
+2025-07-11 14:08:22.516118: APPROVED: Request [ID: 10001, Type: Other, Priority: 2, Status: APPROVED, Details: New laptop request, Time: 2025-07-06 14:08:22]
+2025-07-17 14:08:22.516118: APPROVED: Request [ID: 10002, Type: Other, Priority: 3, Status: APPROVED, Details: Password reset needed, Time: 2025-07-12 14:08:22]
+2025-07-10 14:08:22.516118: REJECTED: Request [ID: 10003, Type: Maintenance, Priority: 1, Status: REJECTED, Details: Office supplies order (Reason: Scheduled for next quarter), Time: 2025-07-06 14:08:22]
+2025-07-26 14:08:22.516118: REJECTED: Request [ID: 10004, Type: Maintenance, Priority: 4, Status: REJECTED, Details: Travel reimbursement (Reason: Not covered by contract), Time: 2025-07-22 14:08:22]
+2025-07-08 14:08:22.516118: REJECTED: Request [ID: 10005, Type: Support, Priority: 2, Status: REJECTED, Details: Software license renewal (Reason: Incomplete ticket information), Time: 2025-07-04 14:08:22]
+2025-07-16 14:08:22.516118: REJECTED: Request [ID: 10006, Type: Logistics, Priority: 1, Status: REJECTED, Details: Desk relocation (Reason: Insufficient budget), Time: 2025-07-13 14:08:22]
+2025-07-04 14:08:22.516118: REJECTED: Request [ID: 10007, Type: Other, Priority: 3, Status: REJECTED, Details: VPN access request (Reason: Not compliant with policy), Time: 2025-07-01 14:08:22]
+2025-07-19 14:08:22.516118: APPROVED: Request [ID: 10008, Type: IT, Priority: 1, Status: APPROVED, Details: Email quota increase, Time: 2025-07-15 14:08:22]
+2025-07-17 14:08:22.516118: REJECTED: Request [ID: 10009, Type: Technical, Priority: 1, Status: REJECTED, Details: Training enrollment (Reason: Technical limitations), Time: 2025-07-15 14:08:22]
+2025-06-26 14:08:22.516118: REJECTED: Request [ID: 10010, Type: Maintenance, Priority: 1, Status: REJECTED, Details: Building access card (Reason: Not covered by contract), Time: 2025-06-25 14:08:22]
+2025-07-17 14:08:22.516118: APPROVED: Request [ID: 10011, Type: IT, Priority: 1, Status: APPROVED, Details: Monitor replacement, Time: 2025-07-15 14:08:22]
+2025-06-30 14:08:22.516118: REJECTED: Request [ID: 10012, Type: Maintenance, Priority: 3, Status: REJECTED, Details: Conference room booking (Reason: Scheduled for next quarter), Time: 2025-06-28 14:08:22]
+2025-07-26 14:08:22.516118: REJECTED: Request [ID: 10013, Type: Other, Priority: 4, Status: REJECTED, Details: Printer maintenance (Reason: Not compliant with policy), Time: 2025-07-21 14:08:22]
+2025-07-22 14:08:22.516118: APPROVED: Request [ID: 10014, Type: Maintenance, Priority: 5, Status: APPROVED, Details: Phone system issue, Time: 2025-07-18 14:08:22]
+2025-07-27 14:08:22.516118: APPROVED: Request [ID: 10015, Type: Technical, Priority: 1, Status: APPROVED, Details: Benefits question, Time: 2025-07-24 14:08:22]
+2025-07-27 14:08:22.516118: REJECTED: Request [ID: 10016, Type: IT, Priority: 1, Status: REJECTED, Details: Payroll discrepancy (Reason: License unavailable), Time: 2025-07-24 14:08:22]
+2025-07-11 14:08:22.516118: REJECTED: Request [ID: 10017, Type: Logistics, Priority: 4, Status: REJECTED, Details: Security badge replacement (Reason: Shipping restrictions apply), Time: 2025-07-09 14:08:22]
+2025-07-12 14:08:22.516118: APPROVED: Request [ID: 10018, Type: Support, Priority: 3, Status: APPROVED, Details: Website access request, Time: 2025-07-11 14:08:22]
+2025-07-23 14:08:22.516118: REJECTED: Request [ID: 10019, Type: Logistics, Priority: 1, Status: REJECTED, Details: Database permissions (Reason: Shipping restrictions apply), Time: 2025-07-20 14:08:22]
+2025-07-23 14:08:22.516118: REJECTED: Request [ID: 10020, Type: Maintenance, Priority: 1, Status: REJECTED, Details: Network drive access (Reason: Scheduled for next quarter), Time: 2025-07-22 14:08:22]
+2025-07-25 14:32:17.417209: APPROVED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Approved, Details: jo, Time: 2025-07-20 17:54:06.967869]
+2025-07-25 14:32:20.946529: REJECTED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Rejected, Details: hi, Time: 2025-07-20 17:56:50.130608]
+2025-07-25 14:38:49.272340: REJECTED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Rejected: Incomplete information provided, Details: jo, Time: 2025-07-20 17:54:06]
+2025-07-25 14:38:57.415778: REJECTED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Rejected: Incomplete information provided, Details: jo, Time: 2025-07-20 17:54:06]
+2025-07-25 15:20:33.185156: APPROVED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Approved, Details: jo, Time: 2025-07-20 17:54:06.967869]
+2025-07-25 15:20:39.045840: REJECTED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Rejected: Incomplete information provided, Details: hi, Time: 2025-07-20 17:56:50]
+2025-07-25 15:20:53.444713: REJECTED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Rejected: Incomplete information provided, Details: hi, Time: 2025-07-20 17:56:50]
+2025-07-25 15:22:31.870870: REJECTED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Rejected: Incomplete information provided, Details: jo, Time: 2025-07-20 17:54:06]
+2025-07-25 15:22:47.532395: REJECTED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Rejected: Incomplete information provided, Details: hi, Time: 2025-07-20 17:56:50]
+2025-07-25 15:22:58.992200: REJECTED: Request [ID: 10001, Type: IT, Priority: 1, Status: Rejected: idk why not, Details: ep, Time: 2025-07-22 12:49:11]
+2025-07-25 15:23:17.539822: APPROVED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Approved, Details: hi, Time: 2025-07-25 12:59:03.931101]
+2025-07-25 15:23:19.355463: APPROVED: Request [ID: 10011, Type: support, Priority: 2, Status: Approved, Details: Unable to submit timesheet., Time: 2025-07-12 08:48:23.700000]
+2025-07-25 15:23:20.621697: APPROVED: Request [ID: 10002, Type: maintenance, Priority: 2, Status: Approved, Details: Ceiling light in pantry is flickering., Time: 2025-07-18 08:05:27.320000]
+2025-07-25 16:18:48.929281: APPROVED: Request [ID: 10001, Type: Logistics, Priority: 1, Status: Approved, Details: jo, Time: 2025-07-20 17:54:06.967869]
+2025-07-25 17:32:37.204843: APPROVED: Request [ID: 10001, Type: IT, Priority: 2, Status: Approved, Details: hi, Time: 2025-07-22 12:49:38.149881]
+2025-08-05 13:18:32.692450: REJECTED: Employee ID: 10004, Type: Logistics, Priority: 1, Details: Reimbursement for client meal, Status: REJECTED, Timestamp: 2025-08-05 13:04:52.909660
+2025-08-05 13:31:57.288567: REJECTED: Employee ID: 10004, Type: Logistics, Priority: 1, Details: Reimbursement for client meal, Status: REJECTED: Incomplete information provided, Timestamp: 2025-08-05 13:04:52.909660
+2025-08-05 13:38:51.479462: REJECTED: Employee ID: 10004, Type: Logistics, Priority: 1, Details: Reimbursement for client meal, Status: REJECTED: Incomplete information provided, Timestamp: 2025-08-05 13:04:52.909660
+2025-08-05 13:39:49.366272: APPROVED: Employee ID: 10015, Type: Logistics, Priority: 1, Details: Restock pantry, Status: APPROVED, Timestamp: 2025-08-05 13:04:52.909660
+2025-08-05 15:26:09.926338: APPROVED: Employee ID: 10019, Type: Logistics, Priority: 3, Details: Report system bug, Status: APPROVED, Timestamp: 2025-08-05 13:05:09.647982
+2025-08-05 15:28:47.422301: APPROVED: Employee ID: 10004, Type: Logistics, Priority: 1, Details: Reimbursement for client meal, Status: APPROVED, Timestamp: 2025-08-05 13:04:52.909660
+2025-08-05 21:28:51.347100: APPROVED: Employee ID: 10011, Type: IT, Priority: 1, Details: Lighting replacement, Status: APPROVED, Timestamp: 2025-08-05 15:57:25.074132
+2025-08-06 12:10:37.425142: APPROVED: Employee ID: 10011, Type: IT, Priority: 1, Details: Lighting replacement, Status: APPROVED, Timestamp: 2025-08-05 15:57:25.074132
+2025-12-26 13:11:43.707229: REJECTED: Employee ID: 10015, Type: IT, Priority: 1, Details: Mobile device request, Status: REJECTED: Incomplete information provided, Timestamp: 2025-08-05 15:57:25.074132
+2025-12-26 13:15:19.954551: REJECTED: Employee ID: 10015, Type: IT, Priority: 1, Details: Mobile device request, Status: REJECTED: Budget constraints, Timestamp: 2025-08-05 15:57:25.074132
